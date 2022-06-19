@@ -18,3 +18,9 @@ BASH Scripts to create update and Delete stacks
 Create.Sh
 Update.Sh
 Delete.Sh
+
+Below is the URL for the WebApp Showing it Works
+
+[URL for the project](http://hawas-WebAp-AKGTO78LTNCS-1869990315.us-east-1.elb.amazonaws.com)
+
+http://hawas-WebAp-AKGTO78LTNCS-1869990315.us-east-1.elb.amazonaws.com
